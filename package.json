@@ -1,0 +1,19 @@
+{
+  "name": "js-excel-parser",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oksanatishka/js-excel-parser.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Oksanatishka/js-excel-parser/issues"
+  },
+  "homepage": "https://github.com/Oksanatishka/js-excel-parser#readme"
+}
