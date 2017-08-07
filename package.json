@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Oksanatishka/js-excel-parser/issues"
   },
-  "homepage": "https://github.com/Oksanatishka/js-excel-parser#readme"
+  "homepage": "https://github.com/Oksanatishka/js-excel-parser#readme",
+  "dependencies": {
+    "xlsx": "^0.11.1"
+  }
 }
